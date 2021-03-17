@@ -4,7 +4,7 @@ There here contained course material servers the purpose of teaching how to do s
 
 In your JupyterHub, open a Terminal window and execute the following code:
 
-git clone https://github.com/KatharinaHoff/StatisticsPython.git
+    git clone https://github.com/KatharinaHoff/StatisticsPython.git
 
 Most chapters in this course were created by using the R-Handbook for Biostatistics (http://bioinf.uni-greifswald.de/bioinf/katharina/bsc/RManual_English.pdf) and replacing R code by Python code.
 
